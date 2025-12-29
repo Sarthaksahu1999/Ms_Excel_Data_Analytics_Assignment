@@ -14,7 +14,7 @@ The assignment focuses on applying essential Excel formulas and data analysis te
   → Assignment question sheet provided by PW Skills.
 
 - **README.md**  
-  → Project documentation (this file).
+  → Project documentation https://github.com/Sarthaksahu1999/Data-analytics-assignments/tree/main
 
 ---
 
